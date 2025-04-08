@@ -46,3 +46,5 @@ Members:
 - Subhajit Sahu
 - Nabil Shahriar
 - Manoranjan Minz
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/resource-degradation-and-rural-livelihood)
